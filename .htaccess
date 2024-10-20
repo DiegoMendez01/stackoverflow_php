@@ -1,0 +1,9 @@
+# Activar el motor de reescritura
+RewriteEngine On
+
+# Evitar reescritura para directorios o archivos existentes
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Reescribir la URL agregando .php a las solicitudes que no lo tengan
+RewriteRule ^(.*)$ $1.php [L]

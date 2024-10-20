@@ -15,6 +15,8 @@
 <link rel="stylesheet" href="assets/css/line-awesome.css">
 <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
 <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+<link rel="stylesheet" href="assets/css/jquery-te-1.4.0.css">
+<link rel="stylesheet" href="assets/css/upvotejs.min.css">
 <link rel="stylesheet" href="assets/css/selectize.css">
 <link rel="stylesheet" href="assets/css/style.css">
 <!-- end inject -->
