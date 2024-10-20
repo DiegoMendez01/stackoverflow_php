@@ -8,7 +8,7 @@
 
     <!-- Google fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="../../../../../css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&amp;display=swap" rel="stylesheet">
 
     <!-- Favicon -->
     <link rel="icon" sizes="16x16" href="assets/images/favicon.png">
@@ -120,7 +120,7 @@
                         ¡Unete a nosotros para compartir conocimientos y crecer juntos!
                     </p>
                     <div class="hero-btn-box py-4">
-                        <a href="ask-question.html" class="btn theme-btn theme-btn-white">Ask a Question <i class="la la-arrow-right icon ms-1"></i></a>
+                        <a href="ask-question.html" class="btn theme-btn theme-btn-white">Nueva Pregunta <i class="la la-arrow-right icon ms-1"></i></a>
                     </div>
                 </div><!-- end hero-content -->
             </div><!-- end col-lg-9 -->
@@ -176,19 +176,19 @@
                     <ul class="nav nav-tabs generic-tabs justify-content-center" id="myTab" role="tablist">
                         <li class="nav-item"><div class="anim-bar"></div></li>
                         <li class="nav-item">
-                            <a class="nav-link active" id="questions-tab" data-bs-toggle="tab" href="#questions" role="tab" aria-controls="questions" aria-selected="true">Questions</a>
+                            <a class="nav-link active" id="questions-tab" data-bs-toggle="tab" href="#questions" role="tab" aria-controls="questions" aria-selected="true">Preguntas</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" id="jobs-tab" data-bs-toggle="tab" href="#jobs" role="tab" aria-controls="jobs" aria-selected="false">Jobs</a>
+                            <a class="nav-link" id="jobs-tab" data-bs-toggle="tab" href="#jobs" role="tab" aria-controls="jobs" aria-selected="false">Trabajos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" id="tags-tab" data-bs-toggle="tab" href="#tags" role="tab" aria-controls="tags" aria-selected="false">Tags</a>
+                            <a class="nav-link" id="tags-tab" data-bs-toggle="tab" href="#tags" role="tab" aria-controls="tags" aria-selected="false">Etiquetas</a>
                         </li>
                          <li class="nav-item">
-                            <a class="nav-link" id="users-tab" data-bs-toggle="tab" href="#users" role="tab" aria-controls="users" aria-selected="false">Users</a>
+                            <a class="nav-link" id="users-tab" data-bs-toggle="tab" href="#users" role="tab" aria-controls="users" aria-selected="false">Usuarios</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" id="badges-tab" data-bs-toggle="tab" href="#badges" role="tab" aria-controls="badges" aria-selected="false">Badges</a>
+                            <a class="nav-link" id="badges-tab" data-bs-toggle="tab" href="#badges" role="tab" aria-controls="badges" aria-selected="false">Insignias</a>
                         </li>
                     </ul>
                     <div class="tab-content pt-40px" id="myTabContent">
@@ -1670,7 +1670,7 @@
                                         <div class="col-lg-6">
                                             <div class="media media-card p-3">
                                                 <a href="#" class="media-img d-inline-block">
-                                                    <img src="images/company-logo.png" alt="company logo">
+                                                    <img src="assets/images/company-logo.png" alt="company logo">
                                                 </a>
                                                 <div class="media-body">
                                                     <h5 class="fs-16 fw-medium"><a href="user-profile.html">Sector labs</a></h5>
@@ -1682,7 +1682,7 @@
                                         <div class="col-lg-6">
                                             <div class="media media-card p-3">
                                                 <a href="#" class="media-img d-inline-block">
-                                                    <img src="images/company-logo2.png" alt="company logo">
+                                                    <img src="assets/images/company-logo2.png" alt="company logo">
                                                 </a>
                                                 <div class="media-body">
                                                     <h5 class="fs-16 fw-medium"><a href="user-profile.html">Barmar</a></h5>
@@ -1694,7 +1694,7 @@
                                         <div class="col-lg-6">
                                             <div class="media media-card p-3">
                                                 <a href="#" class="media-img d-inline-block">
-                                                    <img src="images/company-logo.png" alt="company logo">
+                                                    <img src="assets/images/company-logo.png" alt="company logo">
                                                 </a>
                                                 <div class="media-body">
                                                     <h5 class="fs-16 fw-medium"><a href="user-profile.html">CertainPerformance</a></h5>
@@ -1706,7 +1706,7 @@
                                         <div class="col-lg-6">
                                             <div class="media media-card p-3">
                                                 <a href="#" class="media-img d-inline-block">
-                                                    <img src="images/company-logo2.png" alt="company logo">
+                                                    <img src="assets/images/company-logo2.png" alt="company logo">
                                                 </a>
                                                 <div class="media-body">
                                                     <h5 class="fs-16 fw-medium"><a href="user-profile.html">mck</a></h5>
@@ -1718,7 +1718,7 @@
                                         <div class="col-lg-6">
                                             <div class="media media-card p-3">
                                                 <a href="#" class="media-img d-inline-block">
-                                                    <img src="images/company-logo3.jpg" alt="company logo">
+                                                    <img src="assets/images/company-logo3.jpg" alt="company logo">
                                                 </a>
                                                 <div class="media-body">
                                                     <h5 class="fs-16 fw-medium"><a href="user-profile.html">LoicTheAztec</a></h5>
@@ -1730,7 +1730,7 @@
                                         <div class="col-lg-6">
                                             <div class="media media-card p-3">
                                                 <a href="#" class="media-img d-inline-block">
-                                                    <img src="images/company-logo4.png" alt="company logo">
+                                                    <img src="assets/images/company-logo4.png" alt="company logo">
                                                 </a>
                                                 <div class="media-body">
                                                     <h5 class="fs-16 fw-medium"><a href="user-profile.html">Günter Zöchbauer</a></h5>
@@ -1742,7 +1742,7 @@
                                         <div class="col-lg-6">
                                             <div class="media media-card p-3">
                                                 <a href="#" class="media-img d-inline-block">
-                                                    <img src="images/company-logo.png" alt="company logo">
+                                                    <img src="assets/images/company-logo.png" alt="company logo">
                                                 </a>
                                                 <div class="media-body">
                                                     <h5 class="fs-16 fw-medium"><a href="user-profile.html">Suragch</a></h5>
@@ -1754,7 +1754,7 @@
                                         <div class="col-lg-6">
                                             <div class="media media-card p-3">
                                                 <a href="#" class="media-img d-inline-block">
-                                                    <img src="images/company-logo2.png" alt="company logo">
+                                                    <img src="assets/images/company-logo2.png" alt="company logo">
                                                 </a>
                                                 <div class="media-body">
                                                     <h5 class="fs-16 fw-medium"><a href="user-profile.html">Martijn Pieters</a></h5>
@@ -1766,7 +1766,7 @@
                                         <div class="col-lg-6">
                                             <div class="media media-card p-3">
                                                 <a href="#" class="media-img d-inline-block">
-                                                    <img src="images/company-logo3.jpg" alt="company logo">
+                                                    <img src="assets/images/company-logo3.jpg" alt="company logo">
                                                 </a>
                                                 <div class="media-body">
                                                     <h5 class="fs-16 fw-medium"><a href="user-profile.html">Frank van Puffelen</a></h5>
@@ -1778,7 +1778,7 @@
                                         <div class="col-lg-6">
                                             <div class="media media-card p-3">
                                                 <a href="#" class="media-img d-inline-block">
-                                                    <img src="images/company-logo4.png" alt="company logo">
+                                                    <img src="assets/images/company-logo4.png" alt="company logo">
                                                 </a>
                                                 <div class="media-body">
                                                     <h5 class="fs-16 fw-medium"><a href="user-profile.html">Igor Goyda</a></h5>
@@ -1790,7 +1790,7 @@
                                         <div class="col-lg-6">
                                             <div class="media media-card p-3">
                                                 <a href="#" class="media-img d-inline-block">
-                                                    <img src="images/company-logo.png" alt="company logo">
+                                                    <img src="assets/images/company-logo.png" alt="company logo">
                                                 </a>
                                                 <div class="media-body">
                                                     <h5 class="fs-16 fw-medium"><a href="user-profile.html">Sector labs</a></h5>
@@ -1802,7 +1802,7 @@
                                         <div class="col-lg-6">
                                             <div class="media media-card p-3">
                                                 <a href="#" class="media-img d-inline-block">
-                                                    <img src="images/company-logo2.png" alt="company logo">
+                                                    <img src="assets/images/company-logo2.png" alt="company logo">
                                                 </a>
                                                 <div class="media-body">
                                                     <h5 class="fs-16 fw-medium"><a href="user-profile.html">Barmar</a></h5>
@@ -1814,7 +1814,7 @@
                                         <div class="col-lg-6">
                                             <div class="media media-card p-3">
                                                 <a href="#" class="media-img d-inline-block">
-                                                    <img src="images/company-logo.png" alt="company logo">
+                                                    <img src="assets/images/company-logo.png" alt="company logo">
                                                 </a>
                                                 <div class="media-body">
                                                     <h5 class="fs-16 fw-medium"><a href="user-profile.html">CertainPerformance</a></h5>
@@ -1826,7 +1826,7 @@
                                         <div class="col-lg-6">
                                             <div class="media media-card p-3">
                                                 <a href="#" class="media-img d-inline-block">
-                                                    <img src="images/company-logo2.png" alt="company logo">
+                                                    <img src="assets/images/company-logo2.png" alt="company logo">
                                                 </a>
                                                 <div class="media-body">
                                                     <h5 class="fs-16 fw-medium"><a href="user-profile.html">mck</a></h5>
@@ -1838,7 +1838,7 @@
                                         <div class="col-lg-6">
                                             <div class="media media-card p-3">
                                                 <a href="#" class="media-img d-inline-block">
-                                                    <img src="images/company-logo3.jpg" alt="company logo">
+                                                    <img src="assets/images/company-logo3.jpg" alt="company logo">
                                                 </a>
                                                 <div class="media-body">
                                                     <h5 class="fs-16 fw-medium"><a href="user-profile.html">LoicTheAztec</a></h5>
@@ -1850,7 +1850,7 @@
                                         <div class="col-lg-6">
                                             <div class="media media-card p-3">
                                                 <a href="#" class="media-img d-inline-block">
-                                                    <img src="images/company-logo4.png" alt="company logo">
+                                                    <img src="assets/images/company-logo4.png" alt="company logo">
                                                 </a>
                                                 <div class="media-body">
                                                     <h5 class="fs-16 fw-medium"><a href="user-profile.html">Günter Zöchbauer</a></h5>
@@ -1862,7 +1862,7 @@
                                         <div class="col-lg-6">
                                             <div class="media media-card p-3">
                                                 <a href="#" class="media-img d-inline-block">
-                                                    <img src="images/company-logo.png" alt="company logo">
+                                                    <img src="assets/images/company-logo.png" alt="company logo">
                                                 </a>
                                                 <div class="media-body">
                                                     <h5 class="fs-16 fw-medium"><a href="user-profile.html">Suragch</a></h5>
@@ -1874,7 +1874,7 @@
                                         <div class="col-lg-6">
                                             <div class="media media-card p-3">
                                                 <a href="#" class="media-img d-inline-block">
-                                                    <img src="images/company-logo2.png" alt="company logo">
+                                                    <img src="assets/images/company-logo2.png" alt="company logo">
                                                 </a>
                                                 <div class="media-body">
                                                     <h5 class="fs-16 fw-medium"><a href="user-profile.html">Martijn Pieters</a></h5>
@@ -1886,7 +1886,7 @@
                                         <div class="col-lg-6">
                                             <div class="media media-card p-3">
                                                 <a href="#" class="media-img d-inline-block">
-                                                    <img src="images/company-logo3.jpg" alt="company logo">
+                                                    <img src="assets/images/company-logo3.jpg" alt="company logo">
                                                 </a>
                                                 <div class="media-body">
                                                     <h5 class="fs-16 fw-medium"><a href="user-profile.html">Frank van Puffelen</a></h5>
@@ -1898,7 +1898,7 @@
                                         <div class="col-lg-6">
                                             <div class="media media-card p-3">
                                                 <a href="#" class="media-img d-inline-block">
-                                                    <img src="images/company-logo4.png" alt="company logo">
+                                                    <img src="assets/images/company-logo4.png" alt="company logo">
                                                 </a>
                                                 <div class="media-body">
                                                     <h5 class="fs-16 fw-medium"><a href="user-profile.html">Igor Goyda</a></h5>
@@ -2763,33 +2763,35 @@
 <section class="get-started-area pt-80px pb-50px pattern-bg bg-gray">
     <div class="container">
         <div class="text-center">
-            <h2 class="section-title">Disilab Q&A communities are different. <br> Here's how</h2>
+            <h2 class="section-title">
+                Las comunidades de preguntas y respuestas son diferentes.
+                <br>Aquí están.</h2>
         </div>
         <div class="row pt-50px">
             <div class="col-lg-4 responsive-column-half">
                 <div class="card card-item hover-y text-center">
                     <div class="card-body">
-                        <img src="images/bubble.png" alt="bubble">
-                        <h5 class="card-title pt-4 pb-2">Expert communities.</h5>
-                        <p class="card-text">This is just a simple text made for this unique and awesome template, you can easily edit it as you want.</p>
+                        <img src="assets/images/bubble.png" alt="bubble">
+                        <h5 class="card-title pt-4 pb-2">Comunidades de expertos.</h5>
+                        <p class="card-text">Las comunidades de expertos fomentan la colaboración, compartiendo conocimientos resolviendo problemas para impulsar el desarrollo profesional.</p>
                     </div><!-- end card-body -->
                 </div><!-- end card -->
             </div><!-- end col-lg-4 -->
             <div class="col-lg-4 responsive-column-half">
                 <div class="card card-item hover-y text-center">
                     <div class="card-body">
-                        <img src="images/vote.png" alt="vote">
-                        <h5 class="card-title pt-4 pb-2">The right answer. Right on top.</h5>
-                        <p class="card-text">This is just a simple text made for this unique and awesome template, you can easily edit it as you want.</p>
+                        <img src="assets/images/vote.png" alt="vote">
+                        <h5 class="card-title pt-4 pb-2">La respuesta correcta. Justo en la cima.</h5>
+                        <p class="card-text">La respuesta correcta, siempre se alza en lo más alto, iluminando el camino hacia la claridad y la excelencia.</p>
                     </div><!-- end card-body -->
                 </div><!-- end card -->
             </div><!-- end col-lg-4 -->
             <div class="col-lg-4 responsive-column-half">
                 <div class="card card-item hover-y text-center">
                     <div class="card-body">
-                        <img src="images/check.png" alt="check">
-                        <h5 class="card-title pt-4 pb-2">Share knowledge. Earn trust.</h5>
-                        <p class="card-text">This is just a simple text made for this unique and awesome template, you can easily edit it as you want.</p>
+                        <img src="assets/images/check.png" alt="check">
+                        <h5 class="card-title pt-4 pb-2">Compartir conocimiento. Ganar confianza.</h5>
+                        <p class="card-text">Compartir conocimiento es la llave esencial para ganar confianza y fortalecer vinculos en la comunidad colaborativa</p>
                     </div><!-- end card-body -->
                 </div><!-- end card -->
             </div><!-- end col-lg-4 -->
