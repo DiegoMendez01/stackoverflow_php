@@ -15,7 +15,7 @@
                         ¡Unete a nosotros para compartir conocimientos y crecer juntos!
                     </p>
                     <div class="hero-btn-box py-4">
-                        <a href="ask-question.html" class="btn theme-btn theme-btn-white">Nueva Pregunta <i class="la la-arrow-right icon ms-1"></i></a>
+                        <a href="askquestion" class="btn theme-btn theme-btn-white">Nueva Pregunta <i class="la la-arrow-right icon ms-1"></i></a>
                     </div>
                 </div><!-- end hero-content -->
             </div><!-- end col-lg-9 -->

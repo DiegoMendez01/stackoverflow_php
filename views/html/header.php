@@ -3,7 +3,7 @@
         <div class="row align-items-center">
             <div class="col-lg-2">
                 <div class="logo-box">
-                    <a href="index.html" class="logo"><img src="assets/images/logo-black.png" alt="logo" style="width: 100px; height: auto;"></a>
+                    <a href="index" class="logo"><img src="assets/images/logo-black.png" alt="logo" style="width: 100px; height: auto;"></a>
                     <div class="user-action">
                         <div class="search-menu-toggle icon-element icon-element-xs shadow-sm me-1" data-bs-toggle="tooltip" data-placement="top" title="Buscar">
                             <i class="la la-search"></i>

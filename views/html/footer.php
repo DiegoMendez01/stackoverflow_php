@@ -51,7 +51,7 @@
     <div class="container">
         <div class="row align-items-center pb-4 copyright-wrap">
             <div class="col-lg-6">
-                <a href="index.html" class="d-inline-block">
+                <a href="index" class="d-inline-block">
                     <img src="assets/images/logo-white.png" alt="footer logo" class="footer-logo">
                 </a>
             </div><!-- end col-lg-6 -->
